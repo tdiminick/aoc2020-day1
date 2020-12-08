@@ -1,4 +1,4 @@
-# Advent of Code Day 1 Project 1 - Report Repair
+# Advent of Code Day 1 - Report Repair
 
 https://adventofcode.com/2020/day/1
 
