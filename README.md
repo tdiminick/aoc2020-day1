@@ -1,5 +1,8 @@
 # Advent of Code Day 1 - Report Repair
 
+This is the Advent of Code 2020 day 1 report repair solutions. Included is 
+the input file and the project 1 and 2 source codes.
+
 https://adventofcode.com/2020/day/1
 
 ## Project 1
